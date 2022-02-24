@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/activity_main.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_game.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_history.xml" value="0.33" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_option.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/layout/fragment_result.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adv160419006Week2/app/src/main/res/menu/buttom_menu.xml" value="0.225" />
       </map>
     </option>
   </component>

@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.Navigation
+import com.jitusolution.adv160419006week2.GameFragmentDirections.Companion.actionOptionFragment
 import kotlinx.android.synthetic.main.fragment_main.*
 
 class MainFragment : Fragment() {
@@ -22,7 +23,11 @@ class MainFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         btnStart.setOnClickListener{
-            val action = MainFragmentDirections.actionGameFragment()
+            val action = MainFragmentDirections.actionGameFragment("")
+            Navigation.findNavController(it).navigate(action)
+        }
+        btnOption.setOnClickListener {
+            val action = MainFragmentDirections.actionGameFragment("")
             Navigation.findNavController(it).navigate(action)
         }
     }
